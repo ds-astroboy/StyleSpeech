@@ -1,4 +1,4 @@
-# StyleSpeech - PyTorch Implementation
+# StyleSpeech - PyTorch
 
 PyTorch Implementation of [Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation](https://arxiv.org/abs/2106.03153). 
 
